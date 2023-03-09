@@ -1,0 +1,33 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    color: darkblue;
+    font-weight: bold;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;    
+    background-color: rgb(225, 225, 225);
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: cadetblue;
+    font-size: medium;
+    color: aliceblue;
+    font-weight: bold;
+    height: 40px;
+    border: 0px;
+}
